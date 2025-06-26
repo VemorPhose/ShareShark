@@ -1,5 +1,8 @@
-tensorflow
+torch
+torchvision
+torchaudio
 numpy
-pandas
 matplotlib
+pandas
 seaborn
+yfinance
